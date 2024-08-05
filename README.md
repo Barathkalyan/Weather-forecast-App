@@ -1,13 +1,3 @@
-Name: T Barathkalyan
-
-Company: CodTech IT Solutions
-
-ID: CT08PD866
-
-Duration: May to june 2024
-
-Domain: Web development
-
 ### Weather Forecast Website
 
 The Weather Forecast Website is a simple, user-friendly application that allows users to check the current weather and hourly forecast for any city worldwide. Built with HTML, CSS, and JavaScript, this project leverages the OpenWeatherMap API to fetch and display real-time weather data. Whether you're planning your day or just curious about the weather, this website provides a convenient way to stay informed about the weather conditions in your area or any city around the globe.
