@@ -12,3 +12,7 @@ The Weather Forecast Website is a simple, user-friendly application that allows 
 6. **Dynamic Background 🌇**: The visually appealing background of the website enhances the overall user experience.
 7. **Responsive Design 📱**: The website is designed to be responsive, providing an optimal viewing experience on a variety of devices, from desktop computers to mobile phones.
 
+### Deployment
+
+The website is deployed using vercel, a free source website hosting tool for static websites
+
