@@ -14,5 +14,5 @@ The Weather Forecast Website is a simple, user-friendly application that allows 
 
 ### Deployment
 
-The website is deployed using vercel, a free source website hosting tool for static websites
+The website is deployed using vercel, a free source website hosting tool for static websites, with vercel
 
